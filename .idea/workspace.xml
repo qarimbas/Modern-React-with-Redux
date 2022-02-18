@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="679e8a84-dbab-4476-bb80-1f3d4376e3f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Spinner.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
       <updated>1644917141339</updated>
       <workItem from="1644917150914" duration="4166000" />
       <workItem from="1645085862491" duration="3101000" />
-      <workItem from="1645177372386" duration="2077000" />
+      <workItem from="1645177372386" duration="3909000" />
     </task>
     <servers />
   </component>
