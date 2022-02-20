@@ -10,7 +10,7 @@ class SearchBar extends React.Component {
     onFormSubmit = (event) => {
         event.preventDefault();
 
-        //TODO mke sure we call callbvack
+        this.onFormSubmit(this.state.term);
     };
 
     render() {
