@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cd1a5e8f-b2a3-4106-9f10-9e7b89e4ae22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/VideoDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoDetail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/VideoItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/VideoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645344646793</updated>
       <workItem from="1645344647456" duration="8356000" />
-      <workItem from="1645464085492" duration="2007000" />
+      <workItem from="1645464085492" duration="3098000" />
     </task>
     <servers />
   </component>
