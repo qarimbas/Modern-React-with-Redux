@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c35e68a-e920-4e40-8929-ddd659fdd116" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Convert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Translate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Convert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Convert.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
       <workItem from="1645469334717" duration="2244000" />
       <workItem from="1645858335597" duration="13115000" />
       <workItem from="1645878892970" duration="595000" />
-      <workItem from="1645949814000" duration="2438000" />
+      <workItem from="1645949814000" duration="3922000" />
     </task>
     <servers />
   </component>
